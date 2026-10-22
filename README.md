@@ -12,7 +12,7 @@ This repository contains the experimental materials for the paper:
 
 
 
-\## Contents
+## Contents
 
 
 
@@ -24,7 +24,7 @@ This repository contains the experimental materials for the paper:
 
 
 
-\## Engine Version
+## Engine Version
 
 
 
@@ -32,7 +32,7 @@ Unity 6000.2.12f1
 
 
 
-\## Hardware
+## Hardware
 
 
 
@@ -42,7 +42,15 @@ Intel Core i7-13620H
 
 
 
-\## License
+## How to Reproduce
+
+1. Install Unity 6000.2.12f1 (with the URP template).
+2. Clone this repository.
+3. Open the project in Unity Hub.
+4. Run the test scene and record FPS / frame time for each GI method.
+
+
+## License
 
 
 
